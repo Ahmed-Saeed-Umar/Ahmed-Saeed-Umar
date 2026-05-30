@@ -107,11 +107,10 @@ class AhmedSaeedUmar:
 
 ## 📈 Top Languages
 
-<div align="center">
-
-![Top Languages](https://raw.githubusercontent.com/Ahmed-Saeed-Umar/Ahmed-Saeed-Umar/main/langs.svg)
-
-</div>
+![Python](https://img.shields.io/badge/Python-Most%20Used-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Used-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Used-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Used-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
