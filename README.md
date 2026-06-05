@@ -76,7 +76,7 @@ class AhmedSaeedUmar:
 
 ---
 
-### 🌦️ [Weather Image Classification — Vision Transformer]([https://github.com/Ahmed-Saeed-Umar/](https://github.com/Ahmed-Saeed-Umar/Weather-Image-Classification-using-Vision-Transformers-ViT.git)
+### 🌦️ [Weather Image Classification — Vision Transformer](https://github.com/Ahmed-Saeed-Umar/](https://github.com/Ahmed-Saeed-Umar/Weather-Image-Classification-using-Vision-Transformers-ViT.git)
 > Fine-tuned ViT-Base/16 on ~6,800 weather images across 11 categories. Achieved **92.82% test accuracy** and macro F1 of 0.93 with attention map visualizations.
 
 `Python` `PyTorch` `timm` `ViT` `Computer Vision` `Transfer Learning`
