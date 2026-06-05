@@ -76,21 +76,21 @@ class AhmedSaeedUmar:
 
 ---
 
-### 🌦️ Weather Image Classification — Vision Transformer
+### 🌦️ [Weather Image Classification — Vision Transformer]([https://github.com/Ahmed-Saeed-Umar/](https://github.com/Ahmed-Saeed-Umar/Weather-Image-Classification-using-Vision-Transformers-ViT.git)
 > Fine-tuned ViT-Base/16 on ~6,800 weather images across 11 categories. Achieved **92.82% test accuracy** and macro F1 of 0.93 with attention map visualizations.
 
 `Python` `PyTorch` `timm` `ViT` `Computer Vision` `Transfer Learning`
 
 ---
 
-### 🤖 Web-Based Visual Recognition System
+### 🤖 [Web-Based Visual Recognition System](https://github.com/Ahmed-Saeed-Umar/Face-Recognition-App.git)
 > Full-stack face recognition app with Flask REST API + React frontend. Benchmarked Logistic Regression, Decision Tree, and KNN — hitting **89.7% accuracy** on a custom dataset.
 
 `Python` `Flask` `React` `MobileNetV2` `TFLite` `scikit-learn`
 
 ---
 
-### ⌨️ [ApeType — Typing Speed Test](https://github.com/Ahmed-Saeed-Umar)
+### ⌨️ [ApeType — Typing Speed Test](https://ahmed-saeed-umar.github.io/ApeType/)
 > Monkeytype-style typing test with live WPM/accuracy tracking, 3 timed modes, and randomized words — built in pure Vanilla JS.
 
 `HTML5` `CSS3` `Vanilla JavaScript` `REST API`
