@@ -9,7 +9,11 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
 ```
 
-### `AI/ML Engineer` · `Karachi, Pakistan` · `pushing...`
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=F472B6&center=true&vCenter=true&multiline=false&width=600&lines=AI%2FML+Engineer+%2B+Full+Stack+Developer.;Building+intelligent+systems+from+scratch.;Turning++ideas+into+products.&start=500" alt="Typing SVG" />
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-saeed-umar)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Saeed-Umar)
@@ -35,6 +39,7 @@ class AhmedSaeedUmar:
 
 ## 🛠️ Tech Stack
 
+
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -42,7 +47,16 @@ class AhmedSaeedUmar:
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**AI Engineering**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-Embeddings-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM%20Inference-F55036?style=for-the-badge&logoColor=white)
+![PyPI](https://img.shields.io/badge/Vector%20Search-Cosine%20Similarity-3776AB?style=for-the-badge)
 
 **Languages**
 
@@ -64,6 +78,7 @@ class AhmedSaeedUmar:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -80,6 +95,13 @@ class AhmedSaeedUmar:
 > Fine-tuned ViT-Base/16 on ~6,800 weather images across 11 categories. Achieved **92.82% test accuracy** and macro F1 of 0.93 with attention map visualizations.
 
 `Python` `PyTorch` `timm` `ViT` `Computer Vision` `Transfer Learning`
+
+---
+
+### 🔎 [RAG Pipeline from Scratch](https://github.com/Ahmed-Saeed-Umar/RAF-from-Scratch)
+> Engineered a dependency-light RAG system that answers questions from documents using custom text chunking, vector embeddings, similarity search, and LLM context retrieval — built without high-level frameworks.
+
+`Python` `RAG` `LLMs` `NLP` `Vector Search` `AI Engineering`
 
 ---
 
@@ -105,12 +127,30 @@ class AhmedSaeedUmar:
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Saeed-Umar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=FBCFE8&hide_rank=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Saeed-Umar&theme=midnight-purple&hide_border=true&background=0D1117&stroke=EC4899&ring=F472B6&fire=FBCFE8&currStreakNum=ffffff&sideNums=FBCFE8&currStreakLabel=F472B6&sideLabels=F472B6&dates=6B7280" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Saeed-Umar&bg_color=0D1117&color=F472B6&line=EC4899&point=FBCFE8&area=true&area_color=831843&hide_border=true" />
+</p>
+
+---
+
 ## 📈 Top Languages
 
-![Python](https://img.shields.io/badge/Python-Most%20Used-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Used-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Used-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-Used-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Saeed-Umar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=FBCFE8&hide=Jupyter%20Notebook,html,css" />
+</p>
 
 ---
 
